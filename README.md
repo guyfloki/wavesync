@@ -1,3 +1,5 @@
+![WaveSync](/img/wavesync.png)
+
 
 WaveSync is a Python library crafted for the analysis of vectors and embeddings, specifically tailored for use in Retrieval-Augmented Generation (RAG) systems. 
 
