@@ -47,4 +47,7 @@ class TestWaveSync(unittest.TestCase):
             self.assertTrue(0 <= score <= 1)
 
 if __name__ == '__main__':
-    unittest.main()
+    loader = unittest.TestLoader()
+    suite = loader.loadTestsFromTestCase(TestWaveSync)
+    runner = unittest.TextTestRunner(verbosity=2)
+    runner.run(suite)
