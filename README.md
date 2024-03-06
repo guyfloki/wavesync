@@ -74,7 +74,7 @@ print(wavesync_similar_scores, wavesync_dissimilar_scores, wavesync_opposite_sco
 For those interested in diving deeper into how the WaveSync algorithm works, detailed explanations and use cases can be found on the following platforms:
 
 - **English** (**Will be available in approximately 3 days**): Check out our articles on [Medium](https://medium.com) for an in-depth look at WaveSync. 
-- **Russian** (**Will be available in approximately 2 days**): For Russian speakers, detailed discussions can be found on [Habr](https://habr.com](https://habr.com/ru/articles/798447/)).
+- **Russian** : For Russian speakers, detailed discussions can be found on [Habr](https://habr.com/ru/articles/798447/).
 
 ## Community and Contact
 
