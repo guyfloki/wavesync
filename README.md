@@ -88,7 +88,9 @@ I'm looking forward to collaborating with anyone interested in improving WaveSyn
 
 ### Direct Contact
 
-- If you have specific inquiries or ideas you'd prefer to discuss directly, you can reach out to me via email at [liubomir.horbatko@gmail.com](mailto:liubomir.horbatko@gmail.com). I'm always open to hearing from users and potential collaborators.
+<a href="https://t.me/AGI_person">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="50" height="50" alt="Telegram"/>
+</a>
 
 Your involvement is crucial for making WaveSync even better.
 
